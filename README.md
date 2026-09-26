@@ -4,7 +4,7 @@
 `.env`
 ```bash
 OPENAI_API_KEY="<paste_key_here>"
-
+FIRECRAWL_API_KEY="<paste_key_here>"
 ```
 
 ## Setup
